@@ -14,7 +14,7 @@ Then implementation of apriori algorithm is done by using python to find the ass
 
 ### File List
 1. dataset/Untitled form.csv: input file
-2. code/Market Basket Analysis.ipynb: implementation of Apriori Algorithms
+2. code/Market Basket Analysis.ipynb: implementation of Apriori Algorithm
 <br>
   
 ## 2. Collaborative Filtering - User Based
@@ -27,7 +27,7 @@ Next is an implementation of collaborative filtering algorithm using python to f
 
 ### File List
 1. dataset/Film.csv: input file
-2. code/Collaborative Filtering.ipynb: implementation of Collaborative Filtering Algorithms
+2. code/Collaborative Filtering.ipynb: implementation of Collaborative Filtering Algorithm
 <br>
 
 ## 3. Content Based Recommender
@@ -40,7 +40,7 @@ Then an implementation of the content based recommender algorithm using python t
 
 ### File List
 1. dataset/Film1.csv: input file
-3. code/Conten Based Recommender.ipynb: implementation of Content Based Recommender Algorithms
+3. code/Conten Based Recommender.ipynb: implementation of Content Based Recommender Algorithm
 <br>
 
 ## 4. Hybrid Recommender
