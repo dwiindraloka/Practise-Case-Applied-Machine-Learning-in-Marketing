@@ -11,9 +11,11 @@ Apriori is one algorithm used for market basket analysis. Apriori is designed to
 <br>
 - Lift: The ratio value of the observed support value with the expectation if X and Y are free from each other.
 <br>
+<br>
 Then implementation of apriori algorithm is done by using python to find the association of the items given.
 <br>
-## File List
+
+### File List
 1. dataset/Untitled form.csv: input file
 2. code/Market Basket Analysis.ipynb: implementation of apriori algorithms
 <br>
@@ -29,4 +31,16 @@ Next is an implementation of collaborative filtering algorithm using python to f
 1. dataset/Film.csv: input file
 2. code/Collaborative Filtering.ipynb: implementation of collaborative filtering algorithms
 <br>
+
 ## 3. Content Based Recommender
+<br>
+Content-Based Filtering is a process of filtering information using the background/description of the target user (in this case the movie). The items used are described as variables, for example: Nation, Rating, Duration, Genre and Year.
+<br>
+<br>
+Then an implementation of the content-based filtering algorithm uses python to find a list of other film recommendations that are similar to a film based on the film's Genre and Rating and also based on the film's Nation, Duration and Rating.
+<br>
+### File List
+1. dataset/Film.csv: input file
+2. dataset/Film1.csv: input file
+3. code/Collaborative Filtering.ipynb: implementation of collaborative filtering algorithms
+<br>
