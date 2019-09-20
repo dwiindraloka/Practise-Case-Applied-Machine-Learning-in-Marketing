@@ -5,10 +5,10 @@
   - Support: Indicator stating how often an item appears in a dataset
   - Confidence: Indicator stating how often a rule found is true.
   - Lift: The ratio value of the observed support value with the expectation if X and Y are free from each other.
+Then implementation of apriori algorithm is done by using python to find the association of the items given.
 ## Daftar File
   dataset/Untitled form.csv: input file
-  code/Market Basket Analysis.ipynb: membuat/menguji algoritma apriori
-
-Then an implementation of a priori algorithm is done using python to find the association of the items given.
-2. Collaborative Filtering - User Based
+  code/Market Basket Analysis.ipynb: implementation of apriori algorithms
+  
+## 2. Collaborative Filtering - User Based
 3. Content Based Recommender
